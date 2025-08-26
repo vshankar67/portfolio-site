@@ -21,6 +21,13 @@ const projectData = [
     tech: ['HTML', 'CSS'],
     liveLink: 'https://vshankar67.github.io/Vishal-s-Portfolio/assets/3.4%20Birthday%20Invite%20Project/index1.html',
     repoLink: 'https://github.com/vshankar67/Vishal-s-Portfolio'
+  },
+  {
+  title: 'Drum Kit',
+  description: 'An interactive drum kit built with HTML, CSS, and JavaScript. Features keyboard and click-based sound triggers, dark/light mode toggle, and mobile responsiveness.',
+  tech: ['HTML', 'CSS', 'JavaScript'],
+  liveLink: 'https://drum-kit.vercel.app/',
+  repoLink: 'https://github.com/vshankar67/drum-kit'
   }
 ];
 
