@@ -26,8 +26,8 @@ const projectData = [
   title: 'Drum Kit',
   description: 'An interactive drum kit built with HTML, CSS, and JavaScript. Features keyboard and click-based sound triggers, dark/light mode toggle, and mobile responsiveness.',
   tech: ['HTML', 'CSS', 'JavaScript'],
-  liveLink: 'https://drum-kit.vercel.app/',
-  repoLink: 'https://github.com/vshankar67/drum-kit'
+  liveLink: 'https://drumk-kit.vercel.app/',
+  repoLink: 'https://github.com/vshankar67/drumk-kit'
   }
 ];
 
